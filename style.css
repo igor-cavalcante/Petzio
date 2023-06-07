@@ -1,5 +1,5 @@
 body{
-  background-image: radial-gradient(circle, #ffb8b8, #fdbaba, #fbbdbd, #f8bfbf, #f6c1c1);ckground-image: linear-gradient(to right top, #ffb8b8, #fdbaba, #fbbdbd, #f8bfbf, #f6c1c1);
+background-color: #F0EDC4
 }
 body {
   font-family: Arial, sans-serif;
@@ -18,7 +18,6 @@ form {
   padding: 20px;
   border-radius: 20px;
   background-color: #9D7E61;
-  box-shadow: inset -5px 5px 5px aliceblue;
   
 }
 
